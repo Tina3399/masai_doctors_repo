@@ -1,0 +1,82 @@
+{
+  "users": [
+    {
+      "username": "jerry",
+      "email": "jerry@gmail.com",
+      "password": "jerry",
+      "isdoctor": true,
+      "id": 1
+    },
+    {
+      "username": "a",
+      "email": "a@gmail.com",
+      "password": "a",
+      "isdoctor": false,
+      "id": 2
+    },
+    {
+      "username": "tina",
+      "email": "tinarawat@gmail.com",
+      "password": "tina",
+      "isdoctor": false,
+      "id": 3
+    }
+  ],
+  "appointments": [
+    {
+      "name": "Jerry",
+      "image": "https://media.istockphoto.com/id/1372002650/photo/cropped-portrait-of-an-attractive-young-female-doctor-standing-with-her-arms-folded-in-the.webp?b=1&s=170667a&w=0&k=20&c=ZaIV4-qe9Bgx9QTal0mAU6MbR8eOzxA4jf0KVKYjVMQ=",
+      "specialization": "Pediatrician",
+      "experience": "5",
+      "location": "ABC",
+      "date": "2023-05-26",
+      "slots": 0,
+      "fees": "500",
+      "id": 1
+    },
+    {
+      "name": "Tina",
+      "image": "https://media.istockphoto.com/id/1390000431/photo/shot-of-a-mature-doctor-using-a-digital-tablet-in-a-modern-hospital.webp?b=1&s=170667a&w=0&k=20&c=Jxhk_KZSo9oSZ01Nv8TxjCKKEVZQJFVWICZb64AEIMQ=",
+      "specialization": "Pediatrician",
+      "experience": "10",
+      "location": "Mumbai",
+      "date": "2023-05-01",
+      "slots": 0,
+      "fees": "5000",
+      "id": 2
+    },
+    {
+      "name": "Tom",
+      "image": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZG9jdG9yfGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60",
+      "specialization": "Cardiologist",
+      "experience": "100",
+      "location": "Bob",
+      "date": "2023-05-6",
+      "slots": 0,
+      "fees": "50000",
+      "id": 3
+    },
+    {
+      "name": "Amit",
+      "image": "https://images.unsplash.com/photo-1537368910025-700350fe46c7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8ZG9jdG9yfGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60",
+      "specialization": "Cardiologist",
+      "experience": "1",
+      "location": "Thane",
+      "date": "2023-05-24",
+      "slots": 8,
+      "fees": "300",
+      "id": 4
+    },
+    {
+      "name": "saloni",
+      "image": "https://images.unsplash.com/photo-1551884170-09fb70a3a2ed?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGRvY3RvcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60",
+      "specialization": "Psychiatrist",
+      "experience": "5",
+      "location": "Delhi",
+      "date": "2023-05-20",
+      "slots": 0,
+      "fees": "3",
+      "id": 5
+    }
+  ]
+}
